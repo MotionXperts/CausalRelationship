@@ -1,0 +1,7 @@
+*.json
+models
+processed_videos
+dataset
+emnlp_scl
+emnlp 
+__pycache__
